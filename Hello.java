@@ -11,9 +11,9 @@ public class Hello {
     public static void callSign() {
         
         System.out.println("."); //Lock S-foils in attack position. 
-        System.out.println(".") //Stabilize your rear deflectors... Watch for enemy fighters.
+        System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.")
 
-    }
+   }
 
     public static void goldLeader() {
 
